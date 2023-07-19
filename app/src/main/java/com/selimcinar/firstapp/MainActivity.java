@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
     }
+    //İlk uygulama
     //public heryerden erişilir void geriye birşey döndürmüyor
     public void changeImage(View view) {
         //metotve(View sınıf adı view obje adı)
