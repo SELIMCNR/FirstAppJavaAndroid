@@ -22,4 +22,6 @@ public class MainActivity extends AppCompatActivity {
         imageView.setImageResource(R.drawable.grogecy);
         //Tıklanınca resmi değiştir.
     }
+
+    
 }
